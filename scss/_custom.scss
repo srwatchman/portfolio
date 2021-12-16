@@ -1,0 +1,22 @@
+//my theme colors
+$green1: #9ae19d;
+$green2: #d1f1d4;
+$green3: #e1f6e2;
+$green4: #f0faf1;
+
+$darkgreen: #537151;
+
+$grey: #909590;
+$darkgrey: #474a48;
+$darkergrey: #2c302e;
+
+$primary: $darkgreen;
+$secondary: $grey;
+$danger: $green1;
+$success: $green2;
+$warning: $green3;
+$info: $green4;
+
+
+//import bootstrap
+@import "bootstrap";

@@ -1,0 +1,57 @@
+@import "custom";
+
+li {
+    list-style: none;
+}
+
+.aboutme1 {
+    background-image: url('/images/shelbyaboutme.jpg');
+    background-color: #f0faf1;
+    background-position: center;
+    background-size: 70%;
+    background-repeat: no-repeat;
+    padding: 10rem;
+}
+
+.education {
+    background-image: url('/images/notebook.jpg');
+    background-color: #e1f6e2;
+    background-position: center;
+    background-size: 70%;
+    background-repeat: no-repeat;
+    padding: 10rem;
+}
+
+.career {
+    background-image: url('/images/hero.jpg');
+    background-color: #f0faf1;
+    background-position: center;
+    background-size: 70%;
+    background-repeat: no-repeat;
+    padding: 10rem;
+}
+
+.interests {
+    background-image: url('/images/photography.jpg');
+    background-color: #f0faf1;
+    background-position: center;
+    background-size: 70%;
+    background-repeat: no-repeat;
+    padding: 10rem;
+}
+
+h3 {
+    font-family: 'Oswald', sans-serif;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
